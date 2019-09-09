@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="reset">Reset</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="a_pair">You found a match!</string>
+    <string name="upLevel">Get Ready for Level 2!</string>
+    <string name="done">Congratulations, you finished both levels!\nClick Reset to play again.</string>
+</resources>
